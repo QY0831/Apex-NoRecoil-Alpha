@@ -6,7 +6,7 @@
 #SingleInstance force
 #MaxThreadsBuffer on
 #Persistent
-#NoTrayIcon
+
 Process, Priority, , R
 SetBatchLines, -1
 ListLines Off
